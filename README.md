@@ -1,9 +1,6 @@
 Ejemplo de Python
 ======
 **Phyton-Json** Se trata de un ejemplo en Python 3 para poder leer archivos Json locales o por medio de una dirección web determinada e inclusive accediende a una WebApi
-=======
-# Python-Json
-Ejemplo de Python parta lectura de Json
 
 # Usage
 ```
